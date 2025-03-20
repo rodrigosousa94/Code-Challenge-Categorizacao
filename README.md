@@ -7,8 +7,16 @@ Ele normaliza os nomes dos produtos, remove caracteres especiais e agrupa produt
 - Categorização dos Produtos: A função categorizeProducts agrupa produtos semelhantes de diferentes supermercados com base nos títulos normalizados. Ela conta a quantidade de produtos e os supermercados associados a cada item.
 - Estrutura de Dados Flexível: Os dados são representados utilizando interfaces TypeScript para Product e Category, facilitando a escalabilidade e extensão do projeto.
 
-#Iniciando
+# Iniciando
 Pré-requisitos
 Para rodar este projeto, você precisa ter os seguintes itens instalados:
  - Node.js (versão 12 ou superior)
 - TypeScript (versão 4 ou superior)
+
+# Instalação
+1. Clone o repositório para sua máquina local:
+ - git clone https://github.com/seu-usuario/Code-Challenge-Categorizacao.git
+2. Navegue até o diretório do projeto:
+ - cd Code-Challenge-Categorizacao
+3. Instale as dependências necessárias:
+ - npm install
