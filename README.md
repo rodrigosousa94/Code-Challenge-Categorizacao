@@ -15,7 +15,7 @@ Para rodar este projeto, você precisa ter os seguintes itens instalados:
 
 # Instalação
 1. Clone o repositório para sua máquina local:
- - git clone https://github.com/seu-usuario/Code-Challenge-Categorizacao.git
+ - git clone https://github.com/rodrigosousa94/Code-Challenge-Categorizacao.git
 2. Navegue até o diretório do projeto:
  - cd Code-Challenge-Categorizacao
 3. Instale as dependências necessárias:
